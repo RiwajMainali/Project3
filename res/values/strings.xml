@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectLast</string>
+    <string name="Button_One">First Image</string>
+    <string name="Button_Two">Second Image</string>
+    <string name="Button_Three">Third Image</string>
+
+</resources>
